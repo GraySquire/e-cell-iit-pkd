@@ -84,7 +84,7 @@ const teamData = [
     },
     {
         name:'Mohnish Murugavel',
-        role:'Technical Team Lead',
+        role:'Outreach and Internal Head',
         image:images['Mohnish_Murugavel.webp'],
         mail:'142501019@smail.iitpkd.ac.in',
         linkedin:'https://www.linkedin.com/in/mohnish-murugavel-1b50a73b7/'
